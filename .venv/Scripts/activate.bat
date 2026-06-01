@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\Anirudhan\OneDrive\Desktop\Project\tredence-workflow-engine\.venv
+set VIRTUAL_ENV=F:\Project\Tredence-workflow-engine\.venv
 
 if not defined PROMPT set PROMPT=$P$G
 
